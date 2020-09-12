@@ -1,6 +1,9 @@
 ### Hi there 👋 I'm William!
->Currently looking for an Internship Winter 2020
-
+<p align="center">Currently looking for an Internship Winter 2021</p>
+---
+- 🌱 I’m currently learning the Rust programming language and game development in C# with Unity.
+- 📫 How to reach me: The best way to reach me is by e-mail at William.tarte6@gmail.com
+- 🤓 My interests include: Programming languages (especially Rust and C++), Books (Currently reading the Expanse) and Video-Games.
 ---
 <h3 align="center">
     <img src="https://raw.githubusercontent.com/WillTarte/WillTarte/master/ferris.gif" 
