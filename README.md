@@ -7,6 +7,7 @@
          alt="Rust Ferris gif" />
 </h3>
 ---
+
 <img src="https://github.com/WillTarte/WillTarte/blob/master/images/stat.svg" alt="Wakatime Activity"/>
 
 <!--
