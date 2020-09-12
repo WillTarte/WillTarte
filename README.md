@@ -7,6 +7,8 @@
          alt="Rust Ferris gif" />
 </h3>
 ---
+<img src="https://github.com/WillTarte/WillTarte/blob/master/images/stat.svg" alt="Wakatime Activity"/>
+---
 
 <!--
 **WillTarte/WillTarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
