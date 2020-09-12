@@ -1,6 +1,7 @@
 name: WakaTime stat update in README.md
 
 on:
+  push:
   schedule:
     # Runs at 12 am  '0 0 * * *'  UTC
     - cron: '1 0 * * *'
