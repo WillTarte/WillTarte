@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm William!
+>Currently looking for an Internship Winter 2020
+
+---
+<h3 align="center">
+    <img src="https://raw.githubusercontent.com/WillTarte/WillTarte/master/ferris.gif" 
+         alt="Rust Ferris gif"
+         height="100"
+         width="100" />
+</h3>
+---
 
 <!--
 **WillTarte/WillTarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
