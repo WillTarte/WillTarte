@@ -4,9 +4,7 @@
 ---
 <h3 align="center">
     <img src="https://raw.githubusercontent.com/WillTarte/WillTarte/master/ferris.gif" 
-         alt="Rust Ferris gif"
-         height="100"
-         width="100" />
+         alt="Rust Ferris gif" />
 </h3>
 ---
 
