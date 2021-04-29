@@ -2,8 +2,8 @@
 <p align="center">Currently looking for a full time software development position starting in the fall of 2021</p>
 
 ---
-- 💻 I'm currently doing an internship at Ubisoft Montreal as a 3D programmer using C++ and HLSL
-- 🌱 I’m currently learning the Rust programming language & building a simple compiler
+- 💻 I'm currently finishing my last semester of my Bachelor's degree in Computer Science.
+- 🌱 I’m currently working on personal projects in Rust, and I am planning on learning TypeScript and React.
 - 📫 How to reach me: The best way to reach me is by e-mail at William.tarte6@gmail.com
 - 🤓 My interests include: Programming languages (especially Rust and C++), Books (Currently reading the Expanse) and Video-Games.
 
