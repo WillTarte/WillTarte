@@ -1,11 +1,11 @@
 ### Hi there 👋 I'm William!
-<p align="center">Currently looking for a full time software development position starting in the fall of 2021</p>
+<p align="center">Currently working as an Online Programmer at Ubisoft Montreal, improving the online experience of all of our gamers!</p>
 
 ---
-- 💻 I'm currently finishing my last semester of my Bachelor's degree in Computer Science.
-- 🌱 I’m currently working on personal projects in Rust, and I am planning on learning TypeScript and React.
+- 💻 I've been working at Ubisoft Montreal since September 2021.
+- 🌱 I focus on Backend Development in C# + .NET & TypeScript + NodeJS with a DevOps mindset.
 - 📫 How to reach me: The best way to reach me is by e-mail at William.tarte6@gmail.com
-- 🤓 My interests include: Programming languages (especially Rust and C++), Books (Currently reading the Expanse) and Video-Games.
+- 🤓 My interests include: Programming languages (especially Rust) & the Tech Industry, Books (Big Science-Fiction nerd!) , Video-Games as well as Soccer.
 
 ---
 
